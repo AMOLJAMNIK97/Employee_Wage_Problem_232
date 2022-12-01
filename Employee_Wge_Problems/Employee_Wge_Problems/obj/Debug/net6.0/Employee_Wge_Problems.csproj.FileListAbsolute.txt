@@ -1,0 +1,15 @@
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\bin\Debug\net6.0\Employee_Wge_Problems.exe
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\bin\Debug\net6.0\Employee_Wge_Problems.deps.json
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\bin\Debug\net6.0\Employee_Wge_Problems.runtimeconfig.json
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\bin\Debug\net6.0\Employee_Wge_Problems.dll
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\bin\Debug\net6.0\Employee_Wge_Problems.pdb
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.csproj.AssemblyReference.cache
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.GeneratedMSBuildEditorConfig.editorconfig
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.AssemblyInfoInputs.cache
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.AssemblyInfo.cs
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.csproj.CoreCompileInputs.cache
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.dll
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\refint\Employee_Wge_Problems.dll
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.pdb
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\Employee_Wge_Problems.genruntimeconfig.cache
+F:\Employee_Wage_Problem_232\Employee_Wge_Problems\Employee_Wge_Problems\obj\Debug\net6.0\ref\Employee_Wge_Problems.dll
